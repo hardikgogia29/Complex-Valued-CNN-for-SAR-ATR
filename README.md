@@ -4,7 +4,7 @@
 
 > Wirtinger gradients · Complex learning rates η = ρe^{iθ} · Armijo backtracking · Phase-space saddle escape
 
-*Forked from [Sayan Ghosh](https://github.com/sayanghosh). Mathematical framework and APGD theory by Sayan Ghosh. Architecture redesign, optimizer engineering (v7→v8), and all experiments by [Hardik Gogia](https://github.com/hardikgogia29).*
+*Contribution to a thesis by [Sayan Ghosh](https://github.com/Sayan-03). Mathematical framework and APGD theory by Sayan Ghosh. Architecture redesign, optimizer engineering (v7→v8), and all experiments by [Hardik Gogia](https://github.com/hardikgogia29).*
 
 ---
 
